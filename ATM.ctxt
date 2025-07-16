@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=
+comment1.target=ATM()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ authenticateUser()
+comment4.params=
+comment4.target=void\ performTransactions()
+comment5.params=
+comment5.target=int\ displayMainMenu()
+comment6.params=type
+comment6.target=Transaction\ createTransaction(int)
+numComments=7

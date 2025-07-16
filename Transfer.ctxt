@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=userAccountNumber\ atmScreen\ atmBankDatabase\ atmKeypad
+comment1.target=Transfer(int,\ Screen,\ BankDatabase,\ Keypad)
+comment2.params=
+comment2.target=void\ execute()
+numComments=3
