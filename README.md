@@ -5,3 +5,5 @@ ATM System
 - Developed secure authentication mechanisms including PIN validation and account verification, ensuring proper user authentication before allowing access to account features and transactions.
 - Created a modular object-oriented architecture with classes for Account (including Cheque and Savings account types), Transaction processing, Bank Database, and GUI components (Screen, Keypad), demonstrating strong OOP principles.
 - Implemented a graphical user interface with custom components including a secure password input field, transaction screens, and responsive keypad, providing an intuitive user experience that mimics real ATM operations.
+
+- Use BlueJ to open the project
